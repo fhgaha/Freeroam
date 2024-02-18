@@ -1,0 +1,1 @@
+Take as much time as you want, night will not come until you press N button
