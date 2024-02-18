@@ -1,7 +1,7 @@
 {
   "name": "Freeroam",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/fhgaha/Autoshoot",
+  "website_url": "https://github.com/fhgaha/Freeroam",
   "description": "Take as much time as you want, night will not come until you press N button",
   "dependencies": [
     "BepInEx-BepInExPack_x86-5.4.2100"
